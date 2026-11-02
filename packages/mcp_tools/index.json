@@ -1,6 +1,6 @@
 {
   "package": "mcp_tools",
-  "entry_count": 4,
+  "entry_count": 5,
   "entries": [
     {
       "id": "note-0001-d1f828f110c143f8966cbda76ee59a48",
@@ -33,6 +33,14 @@
       "title": "## capella-fabric: What It Won't Do, and Why",
       "tags": [],
       "file_path": "entries/note-0004-9c4d178aacf54740b808ae7f99b9d4d4.md"
+    },
+    {
+      "id": "note-0005-afbcaa7e5d134e318cf6758fb1024ce9",
+      "type": "note",
+      "timestamp": "2026-11-02T12:10:09Z",
+      "title": "## capella-fabric: Seeing a Diagram, Not Just Reading About It",
+      "tags": [],
+      "file_path": "entries/note-0005-afbcaa7e5d134e318cf6758fb1024ce9.md"
     }
   ]
 }
